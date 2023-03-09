@@ -1,7 +1,7 @@
-package com.bytes2gram.framework.listeners;
+package com.bits.pilani.devops.framework.listeners;
 
 import com.aventstack.extentreports.Status;
-import com.bytes2gram.framework.core.ExtentManager;
+import com.bits.pilani.devops.framework.core.ExtentManager;
 import org.testng.IInvokedMethod;
 import org.testng.IInvokedMethodListener;
 import org.testng.ITestContext;

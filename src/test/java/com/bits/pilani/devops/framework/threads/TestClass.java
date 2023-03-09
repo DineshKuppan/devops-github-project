@@ -1,4 +1,4 @@
-package com.bytes2gram.framework.threads;
+package com.bits.pilani.devops.framework.threads;
 
 import org.testng.annotations.Test;
 

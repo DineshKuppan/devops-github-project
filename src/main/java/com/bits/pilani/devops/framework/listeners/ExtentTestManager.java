@@ -1,8 +1,8 @@
-package com.bytes2gram.framework.listeners;
+package com.bits.pilani.devops.framework.listeners;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
-import com.bytes2gram.framework.core.ExtentManager;
+import com.bits.pilani.devops.framework.core.ExtentManager;
 import java.util.HashMap;
 import java.util.Map;
 

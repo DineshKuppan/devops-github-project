@@ -3,7 +3,7 @@
 <suite name="Sample App class Test" parallel="methods" thread-count="5">
   <test name="AppTest">
     <classes>
-      <class name="com.bytes2gram.framework.threads.TestClass"/>
+      <class name="com.bits.pilani.devops.framework.threads.TestClass"/>
     </classes>
   </test>
 </suite>

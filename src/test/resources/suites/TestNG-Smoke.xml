@@ -4,7 +4,7 @@
 <suite name="Sample App class Test">
   <test name="AppTest">
     <classes>
-      <class name="com.bytes2gram.framework.CalculatorTest"/>
+      <class name="com.bits.pilani.devops.framework.CalculatorTest"/>
     </classes>
   </test>
 </suite>

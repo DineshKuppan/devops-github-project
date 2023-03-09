@@ -1,4 +1,4 @@
-package com.bytes2gram.framework;
+package com.bits.pilani.devops.framework;
 
 public final class Calculator {
 

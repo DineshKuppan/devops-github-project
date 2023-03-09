@@ -1,4 +1,4 @@
-package com.bytes2gram.framework;
+package com.bits.pilani.devops.framework;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;

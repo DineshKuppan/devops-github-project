@@ -15,7 +15,5 @@ i
 9src/main/java/com/bytes2gram/framework/listeners/GFG.java,7/7/77b91a0a374e93674c211bd7594d1b039e87323b
 x
 Hsrc/main/java/com/bytes2gram/framework/listeners/PermutationExample.java,7/0/70645ffcd953970c5a3f5edb9c1161e69642d538
-s
-Csrc/main/java/com/bytes2gram/framework/listeners/SampleProgram.java,3/a/3a3418b2faae165391b7c3bf116d8e7b893b8b57
 {
 Ksrc/main/java/com/bytes2gram/framework/listeners/TestNGListenerInvoker.java,2/b/2bba975f65c8328405af003406341a572aeaa3dd

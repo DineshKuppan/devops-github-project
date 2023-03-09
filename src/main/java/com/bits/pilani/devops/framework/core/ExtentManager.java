@@ -1,4 +1,4 @@
-package com.bytes2gram.framework.core;
+package com.bits.pilani.devops.framework.core;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
