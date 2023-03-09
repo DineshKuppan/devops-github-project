@@ -43,4 +43,12 @@ public class CalculatorTest {
     int result = 10 - 3;
     Assert.assertEquals(result, 9);
   }
+
+  @Test
+  public void testMultiplication() {
+    int a = 10, b = 3;
+    int expectedResult = 30;
+    int actualResult = Calculator.multiplication(a, b);
+    Assert.assertEquals(actualResult, expectedResult);
+  }
 }
