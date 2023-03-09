@@ -40,8 +40,9 @@ public class CalculatorTest {
 
   @Test
   public void testSubstraction() {
-    int result = 10 - 3;
-    Assert.assertEquals(result, 9);
+    int expectedResult = 7;
+    int actualResult = Calculator.subtraction(10, 3);
+    Assert.assertEquals(actualResult, 9);
   }
 
   @Test
