@@ -42,7 +42,7 @@ public class CalculatorTest {
   public void testSubstraction() {
     int expectedResult = 7;
     int actualResult = Calculator.subtraction(10, 3);
-    Assert.assertEquals(actualResult, 9);
+    Assert.assertEquals(actualResult, expectedResult);
   }
 
   @Test
